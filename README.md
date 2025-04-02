@@ -1,9 +1,12 @@
 # About
 
-This repository contains the completed GameHub project as of the end of part 2 of my React course.
+I built a Game Recommender Web Application called "GameHub" using React, designed to provide users with a curated list of games based on categories and popularity. The project focuses on delivering a clean, interactive, and user-friendly experience.
 
-You can find the full course at: https://codewithmosh.com
-
+Overview of Features
+1. Game Listings & Categorization – Displays a list of games sorted by genre and popularity.
+2.  Filtering & Sorting – Users can filter games based on categories and sort them by rating or release date.
+3.  Dynamic Data Fetching – The app fetches game data dynamically, ensuring up-to-date recommendations.
+4.  Responsive UI – A well-structured, mobile-friendly layout with reusable components.
 ## Getting Started
 
 To get started, follow these steps:
